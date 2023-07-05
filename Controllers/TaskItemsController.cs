@@ -9,7 +9,7 @@ using TodoApi.Models;
 
 namespace TableCRUD.Controllers
 {
-    [Route("api/TaskItems")]
+    [Route("api/tasks")]
     [ApiController]
     public class TaskItemsController : ControllerBase
     {
